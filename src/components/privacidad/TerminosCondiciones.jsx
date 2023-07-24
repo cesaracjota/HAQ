@@ -13,9 +13,6 @@ const TerminosCondiciones = () => {
 
   return (
     <Box>
-      <Heading as="h1" size={{ base: "lg", lg: "xl" }} mb={4}>
-        Terminos y Condiciones - Himnario Adventista Quechua
-      </Heading>
       <ReactMarkdown
         components={{
           h1: ({ node, ...props }) => (
