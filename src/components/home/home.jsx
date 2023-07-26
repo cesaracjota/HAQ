@@ -55,7 +55,7 @@ const Home = () => {
           Descarga la aplicación ahora mismo
         </Heading>
         <Button colorScheme="purple" size="lg" leftIcon={<FaAndroid size={28} />}
-          as="a" href="https://play.google.com/store/apps/details?id=com.himnarioadventistaquechua" target="_blank" rel="noopener noreferrer"
+          as="a" href="https://play.google.com/store/apps/details?id=com.agylcode.himnarioquechua" target="_blank" rel="noopener noreferrer"
           _dark={{
             bg: 'purple.500',
             color: 'white',
